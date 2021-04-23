@@ -1,0 +1,178 @@
+body {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background: repeating-linear-gradient( to top left, #9a1b0577, #ffcf3e77, #00000077);
+}
+
+#confirm button {
+    border-bottom: 2px red dashed;
+    background-color: white;
+    color: red;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#confirm button:hover {
+    border-bottom: 3px white dashed;
+    background-color: red;
+    color: white;
+}
+
+#confirm td {
+    border: 1px black dashed;
+    padding: 5px;
+}
+
+#confirm .div {
+    width: 50%;
+    float: left;
+    height: 250px;
+}
+
+#cart td {
+    border: 1px black dashed;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 15%;
+    padding: 8px 0;
+
+}
+
+#cart .delete a {
+    border-bottom: 2px red dashed;
+    border-radius: 20px;
+    padding: 16px 30px;
+    margin: 5px;
+    color: red;
+    background-color: rgba(255, 255, 255, 0.349);
+}
+
+#cart .delete a:hover {
+    background-color: red;
+    border-color: white;
+    color: white;
+}
+
+#cart .delete {
+    border: 0px;
+    padding: 0px;
+}
+
+#cart .danger {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+}
+
+#cart .danger .dan {
+    padding: 20px;
+    font-size: 18px;
+    border-bottom: 2px red dashed;
+    border-radius: 20px;
+    margin: 5px;
+    color: red;
+    background-color: rgba(255, 255, 255, 0.349);
+}
+
+#cart .danger .dan:hover {
+    background-color: red;
+    border-color: white;
+    color: white;
+}
+
+#cart .danger #confirm {
+    padding: 20px;
+    font-size: 18px;
+    border-bottom: 2px green dashed;
+    border-radius: 20px;
+    margin: 5px;
+    color: green;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.349);
+}
+
+#cart .danger #confirm:hover {
+    background-color: green;
+    border-color: white;
+    color: white;
+}
+
+section {
+    min-height: 100vh;
+}
+
+.red {
+    background-color: red;
+    padding: 15px;
+}
+
+.grey {
+    background-color: rgba(128, 128, 128, 0.644);
+}
+
+.yellow {
+    background-color: rgba(255, 255, 0, 0.63);
+    padding: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.backbtn {
+    background: white;
+    color: black;
+    border-bottom: 2px solid #020202;
+    border-radius: 12px;
+    font-size: 15px;
+    transition: 0.6s;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    border-radius: 10px;
+    padding: 2px 12px
+}
+
+.backbtn:hover {
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+.buttonx {
+    background: white;
+    color: black;
+    border-bottom: 2px solid #020202;
+    border-radius: 12px;
+    font-size: 15px;
+    transition: 0.6s;
+    overflow: hidden;
+    padding: 8px;
+}
+
+.buttonx:hover {
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+input, textarea {
+    background: unset;
+    border: 0px black solid;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px;
+    word-wrap: break-word;
+    height: auto;
+   
+}
+textarea{
+    min-height: 150px;
+    font-weight: bold;
+}

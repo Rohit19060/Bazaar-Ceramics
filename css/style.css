@@ -1,0 +1,129 @@
+.menu {
+	width: 80%;
+	color: black;
+	float: left;
+}
+
+.menu ul {
+	display: flex;
+	margin: 0 auto;
+	padding: 0px;
+	background-color: black;
+	opacity: .8;
+}
+
+.menu ul li {
+	list-style: none;
+	position: relative;
+	padding: 10px 15px;
+	transition: 0.5s;
+	box-sizing: border-box;
+	border-right: 1px solid rgba(255, 255, 255, .2);
+	text-align: center;
+	font-size: 17px;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	padding: 0px 20px;
+	color: white;
+	display: block;
+}
+
+.menu ul li:last-child {
+	border-right: none;
+}
+
+.menu ul li ul {
+	position: absolute;
+	top: 40px;
+	left: 0;
+	display: block;
+	width: 145px;
+	transition: 0.5s;
+	opacity: 0;
+	visibility: hidden;
+}
+
+.menu ul li:hover {
+	background: #2196f3;
+}
+
+.menu ul li:hover ul {
+	opacity: 1;
+	visibility: visible;
+}
+
+.menu ul li ul li {
+	border-bottom: 1px solid rgba(255, 255, 255, .2);
+	border-right: none;
+	background-color: #323232;
+}
+
+.menu ul li:hover ul {
+	opacity: 1;
+	visibility: visible;
+}
+
+.nav2 .current {
+	background: #090;
+}
+
+.menu nav {
+	text-align: right;
+}
+
+label {
+	margin: 0 40px 0 0;
+	font-size: 26px;
+	line-height: 30px;
+	display: none;
+	width: 26px;
+	float: right;
+}
+
+#toggle {
+	display: none;
+}
+
+div.gallery img {
+	margin-top: 70px;
+	margin-left: 70px;
+	width: 70%;
+	height: auto;
+}
+
+div.desc {
+	text-align: center;
+	font-size: 1vw;
+	margin-left: 70px;
+}
+
+.responsive {
+	padding: 0 10px;
+	float: left;
+	width: 24.99999%;
+}
+
+.left-navigation {
+	display: none;
+}
+
+#twitter {
+	text-align: center;
+	padding: 150px 20px 20px 0;
+}
+
+#pintrest {
+	text-align: center;
+	padding: 0px 20px 20px 0;
+}
+
+#facebook {
+	text-align: center;
+	padding: 0px 20px 20px 0;
+}
+
+table {
+	border: 0px;
+}

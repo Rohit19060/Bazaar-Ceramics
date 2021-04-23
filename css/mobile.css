@@ -1,0 +1,66 @@
+@media (min-width:50px)and (max-width:500px) {
+	label {
+		display: block;
+		cursor: pointer;
+	}
+	.menu {
+		text-align: center;
+		width: 100%;
+		display: none;
+	}
+	#toggle:checked+.menu {
+		display: block;
+	}
+	.menu ul {
+		display: block;
+	}
+	.menu ul li {
+		display: block;
+		border-radius: 10px 5px;
+	}
+	.menu ul li ul {
+		width: 100%;
+		z-index: 1;
+	}
+	.left-panel {
+		display: none;
+	}
+	.sub-heading {
+		display: none;
+	}
+	.page-heading {
+		display: none;
+	}
+	.content {
+		width: 100% !important;
+		text-align: unset !important;
+		height: 75% !important;
+		padding: 0px 0px 25px 0px !important;
+	}
+	.footer {
+		display: none;
+	}
+	.history {
+		text-align: center;
+	}
+	.history2 {
+		text-align: center;
+	}
+	div.gallery img {
+		margin-top: 70px;
+		margin-left: 0px;
+		width: 100%;
+	}
+	div.desc {
+		text-align: center;
+		font-size: 2vw;
+		margin-left: 0px;
+	}
+	.responsive {
+		padding: 0 10px;
+		width: 24.99999%;
+	}
+	.setons{
+		display: block !important;
+	}
+}

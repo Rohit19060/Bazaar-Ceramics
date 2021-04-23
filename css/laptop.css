@@ -1,0 +1,9 @@
+@charset "utf-8";
+@media (min-width:801px) and (max-width:1096px) {
+	.menu ul li a {
+		padding: 0px 1px;
+	}
+	.menu ul li ul {
+		width: 108px;
+	}
+}

@@ -1,0 +1,191 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	background: #999;
+	font-family: 'poppins', sans-serif;
+}
+
+.wrapper {
+	width: 90%;
+	background: #FFF;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.banner-main {
+	width: 100%;
+	height: 260px;
+}
+
+.left-panel {
+	width: 20%;
+	float: left;
+	background: #9A1B05;
+	height: 105vh;
+}
+
+.page-heading {
+	width: 80%;
+	height: 60px;
+	background: black;
+	float: left;
+	text-align: center;
+	color: white;
+}
+
+.sub-heading {
+	width: 80%;
+	height: 50px;
+	background: #FFCF3E;
+	float: left;
+	text-align: center;
+	color: black;
+}
+
+.content {
+	width: 80%;
+	height: 83vh;
+	background-color: #CCC;
+	float: left;
+}
+
+.footer {
+	background: #333;
+	width: 100%;
+	height: 50px;
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	float: left;
+}
+
+.footer ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer ul li {
+	margin: 0 5px;
+}
+
+.footer ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+.footer ul li a:hover {
+	color: skyblue;
+}
+
+.history {
+	text-align: center;
+}
+
+.history2 {
+	text-align: justify;
+	padding: 0 60px;
+}
+
+#back_link {
+	text-align: center;
+}
+
+.slicedimgtd {
+	display: block;
+	margin-left: -4px;
+}
+
+.thumbnail tr {
+	display: block;
+	margin-top: -6px;
+}
+
+.thumbnail {
+	text-align: center;
+}
+
+.thumbtable {
+	display: flex;
+	justify-content: center;
+}
+
+.thumbnail h4 {
+	display: inline-block;
+	color: black;
+}
+
+.nested {
+	margin: 40px 10px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 1em;
+}
+
+.center {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.thumb {
+	max-width: 15%;
+	cursor: pointer;
+	margin: 0px 5px;
+}
+
+.thumbnails {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.enlargement {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.enlargement img {
+	width: 40vh;
+	height: 25vh;
+}
+
+h5 {
+	padding: 0px 10px;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.buttonx {
+	background: white;
+	color: black;
+	border: 2px solid #020202;
+	border-radius: 12px;
+	font-size: 15px;
+	transition: 0.6s;
+	overflow: hidden;
+	padding: 8px;
+}
+
+.buttonx:hover {
+	background: black;
+	color: white;
+	cursor: pointer;
+}
+
+.sessionbuttons {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	margin-top: 10%;
+}
+.setons{
+	display: none;
+}

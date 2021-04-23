@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 3px;
+    padding-top: 8%;
+    min-height: 100%;
+    background: repeating-linear-gradient( to top left, #9a1b05, #ffcf3e, #000000);
+
+}
+
+input, a {
+    all: unset;
+}
+
+input[type="text"], input[type="tel"], input[type="password"], input[type="email"], textarea {
+    word-wrap: break-word;
+    letter-spacing: 3px;
+    display: flex;
+    border: 2px black solid;
+    border-radius: 15px;
+    padding: 8px 15px;
+    min-width: 100%;
+    background-color: white;
+    
+    
+
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input[type="submit"], input[type="reset"] {
+    border: 2px black solid;
+    border-radius: 15px;
+    padding: 8px 15px;
+    min-width: 50%;
+    display: inline-block;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    min-height: 100%;
+}
+
+button {
+    all: unset;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    border: 2px black solid;
+    border-radius: 15px;
+    padding: 8px 15px;
+    width: 100%;
+    cursor: pointer;
+}
+
+#space {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+form {
+    min-height: 100vh;
+}
