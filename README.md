@@ -44,6 +44,6 @@ Firstly you need to create the database then using a localhost server you can tr
 
 ## 🤝 Support
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
