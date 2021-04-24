@@ -4,9 +4,9 @@
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/Bazaar-Ceramics)
+- [Repo](https://github.com/Rohit19060/Bazaar-Ceramics "Bazaar Ceramics Repo")
 
-- [Bugs](https://github.com/Rohit19060/Bazaar-Ceramics/issues)
+- [Bugs](https://github.com/Rohit19060/Bazaar-Ceramics/issues "Issues Page")
 
 ## Screenshots
 
