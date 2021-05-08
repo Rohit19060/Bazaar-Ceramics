@@ -52,7 +52,7 @@
 
 - [XAMPP](https://www.apachefriends.org/download.html "XAMPP") Installed
 
-- Basic Understand of PHP
+- Basic Understanding of PHP
 
 - Basic Understanding of [HTML](https://youtu.be/JHv2jmnrLlA "HTML - First Step Towards Web Development")
 
