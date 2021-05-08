@@ -132,4 +132,4 @@ You just need to use `Apache` and `MySQL` and the app will be ready to run on an
 <a href="https://ko-fi.com/rohitjain" target="_blank" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
 </p>
 
-<p align="center">Made with Python & ❤️ in India</p>
+<p align="center">Made with PHP & ❤️ in India</p>
