@@ -7,25 +7,25 @@
 <p align="center">A PHP E-commerce Application for ceramics business to show and sell their produces</p>
 
 <p align="center">
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics/blob/master/LICENSE" target="_blank" title="License">
-<img src="https://img.shields.io/github/license/Rohit19060/Bazaar-Ceramics?label=License&logo=Github&style=flat-square" alt="Bazaar Ceramics License" />
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics/blob/master/LICENSE" title="License">
+<img src="https://img.shields.io/github/license/Rohit19060/Bazaar-Ceramics?label=License&logo=Github&style=flat-square" alt="Bazaar Ceramics License"/>
 </a>
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics/fork" target="_blank" title="Forks">
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics/fork" title="Forks">
 <img src="https://img.shields.io/github/forks/Rohit19060/Bazaar-Ceramics?label=Forks&logo=Github&style=flat-square" alt="Bazaar Ceramics Forks"/>
 </a>
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics/stargazers" target="_blank" title="Stars">
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics/stargazers" title="Stars">
 <img src="https://img.shields.io/github/stars/Rohit19060/Bazaar-Ceramics?label=Stars&logo=Github&style=flat-square" alt="Bazaar Ceramics Stars"/>
 </a>
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics/issues" target="_blank" title="Issues">
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics/issues" title="Issues">
 <img src="https://img.shields.io/github/issues/Rohit19060/Bazaar-Ceramics?label=Issues&logo=Github&style=flat-square" alt="Bazaar Ceramics Issues"/>
 </a>
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics/pulls" target="_blank" title="Pull Requests">
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics/pulls" title="Pull Requests">
 <img src="https://img.shields.io/github/issues-pr/Rohit19060/Bazaar-Ceramics?label=Pull%20Requests&logo=Github&style=flat-square" alt="Bazaar Ceramics Pull Requests"/>
 </a>
-<a href="https://github.com/Rohit19060/Bazaar-Ceramics" target="_blank" title="Repo Size">
+<a href="https://github.com/Rohit19060/Bazaar-Ceramics" title="Repo Size">
 <img src="https://img.shields.io/github/repo-size/Rohit19060/Bazaar-Ceramics?label=Repo%20Size&logo=Github&style=flat-square" alt="Bazaar Ceramics Repo Size"/>
 </a>
-<a href="https://discord.gg/2wpHNSjwm2" target="_blank" title="Join Community">
+<a href="https://discord.gg/2wpHNSjwm2" title="Join King Tech's Community">
 <img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community"/>
 </a>
 </p>
@@ -121,14 +121,14 @@ You just need to use `Apache` and `MySQL` and the app will be ready to run on an
 
 <h2 align="center">🤝 Support</h2>
 
-<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow">GitHub flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h3>
+<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow"  title="GitHub flow">GitHub flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h3>
 
 <h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
 <h3 align="center">💰 Donations Links</h3>
 <p align="center">
-<a href="https://www.paypal.me/kingrohitJ" target="_blank" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/></a>
-<a href="https://www.buymeacoffee.com/rohitjain" target="Buy me a Coffee/" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/></a>
-<a href="https://ko-fi.com/rohitjain" target="_blank" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
+<a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/></a>
+<a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/></a>
+<a href="https://ko-fi.com/rohitjain" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
 </p>
 
 <p align="center">Made with PHP & ❤️ in India</p>
